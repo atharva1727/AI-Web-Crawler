@@ -261,7 +261,7 @@ Once the window opens:
 ### 🏠 Home Screen — Ready to Crawl
 Clean, minimal starting state before any crawl has begun.
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](https://github.com/atharva1727/AI-Web-Crawler/blob/main/home_screen.png)
 
 ### ⌨️ Seed URL Entered
 The user provides a seed URL and is ready to hit **Start**.
