@@ -271,7 +271,7 @@ The user provides a seed URL and is ready to hit **Start**.
 ### ⚡ Crawl In Progress — Live Results
 Indexed pages populate in real time as the BFS traversal explores the site level by level.
 
-![Crawling in Progress](screenshots/crawling_in_progress.png)
+![Crawling in Progress](https://github.com/atharva1727/AI-Web-Crawler/blob/main/crawling_in_progress.png)
 
 ---
 
