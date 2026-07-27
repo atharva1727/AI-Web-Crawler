@@ -266,7 +266,7 @@ Clean, minimal starting state before any crawl has begun.
 ### ⌨️ Seed URL Entered
 The user provides a seed URL and is ready to hit **Start**.
 
-![Seed URL Entered](screenshots/seed_url_entered.png)
+![Seed URL Entered](https://github.com/atharva1727/AI-Web-Crawler/blob/main/seed_url_entered.png)
 
 ### ⚡ Crawl In Progress — Live Results
 Indexed pages populate in real time as the BFS traversal explores the site level by level.
