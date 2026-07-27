@@ -3,7 +3,7 @@ An AI-powered web crawler built in Python using the Breadth-First Search (BFS) a
 
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/spider-web.png" width="90" alt="Web Crawler Icon"/>
+  <img src="https://github.com/atharva1727/AI-Web-Crawler/blob/main/webcrawler.png" width="90" alt="Web Crawler Icon"/>
 </p>
 
 <h1 align="center">🌐 AI Web Crawler — BFS Edition</h1>
